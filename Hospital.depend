@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744927111 source:c:\users\jose.garfia\desktop\carpeta personal\curso c++\hospital\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
